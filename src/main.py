@@ -2,7 +2,7 @@ import requests
 import json
 import re
 
-API_KEY = 'AIzaSyA7dWkYzj3QxZqkx6ZMx5erWAKDv5ywB6U'
+API_KEY = 'SOME-API-KEY'
 # playlistId = 'PL4o29bINVT4EG_y-k5jGoOu3-Am8Nvi10'
 prefix = 'https://www.googleapis.com/youtube/v3'
 videoList = []
