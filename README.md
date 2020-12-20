@@ -10,10 +10,10 @@ Playlist id needs to be given as input.  This Id can be fetched from URL of play
 Script outputs number of videos in playlist and total time to watch all videos.
 
 ### Example:
-* Input: 
+**Input**: 
 PL4o29bINVT4EG_y-k5jGoOu3-Am8Nvi10 
 
-* Output: 
+**Output:** 
 Total videos in playlist is 238.
 Total time for watching playlist is 14 Hours 29 Minutes 42 Seconds
 
